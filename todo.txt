@@ -1,0 +1,4 @@
+Read cheerio docs
+Find a cheerio-like module for python
+or
+incorporate javascript into the project
